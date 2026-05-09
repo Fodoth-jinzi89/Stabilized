@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "assembles": {
+      "trigger": "stabilized:gyroscopic_bearing_assembles"
+    }
+  },
+  "display": {
+    "description": {
+      "color": "#DBA213",
+      "translate": "advancement.stabilized.unlimited_stabilization.desc"
+    },
+    "icon": {
+      "count": 1,
+      "id": "stabilized:stabilizer_bearing"
+    },
+    "title": {
+      "translate": "advancement.stabilized.unlimited_stabilization"
+    }
+  },
+  "requirements": [
+    [
+      "assembles"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

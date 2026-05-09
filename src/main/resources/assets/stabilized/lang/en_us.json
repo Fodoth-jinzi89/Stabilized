@@ -1,0 +1,18 @@
+{
+  "stabilized.generic.swivel_cw_stabilized": "Clockwise -> Stabilized",
+  "stabilized.generic.swivel_ccw_stabilized": "Counter-Clockwise -> Stabilized",
+  "stabilized.simulated_section.stabilized": "Stabilized",
+
+  "block.stabilized.stabilizer_bearing": "Stabilizer Bearing",
+
+  "block.stabilized.stabilizer_bearing.tooltip.behaviour1": "Increase or Decrease the _Attached Contraption_'s offset angle.",
+  "block.stabilized.stabilizer_bearing.tooltip.condition1": "When Powered by Kinetics",
+
+  "block.stabilized.stabilizer_bearing.tooltip.behaviour2": "Reset the _Attached Contraption_'s offset angle to 0°.",
+  "block.stabilized.stabilizer_bearing.tooltip.condition2": "When Powered by Redstone",
+
+  "block.stabilized.stabilizer_bearing.tooltip.summary": "Automatically stabilizes a _Simulated Contraption_ along _one Axis_.",
+
+  "advancement.stabilized.unlimited_stabilization": "Unlimited Stabilization",
+  "advancement.stabilized.unlimited_stabilization.desc": "Assemble a Simulated Contraption using a Stabilizer Bearing"
+}

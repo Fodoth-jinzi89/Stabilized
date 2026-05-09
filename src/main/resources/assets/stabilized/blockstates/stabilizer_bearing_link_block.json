@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "stabilized:block/stabilizer_bearing/bearing_plate",
+      "x": 180
+    },
+    "facing=east": {
+      "model": "stabilized:block/stabilizer_bearing/bearing_plate",
+      "x": 90,
+      "y": 90
+    },
+    "facing=north": {
+      "model": "stabilized:block/stabilizer_bearing/bearing_plate",
+      "x": 90
+    },
+    "facing=south": {
+      "model": "stabilized:block/stabilizer_bearing/bearing_plate",
+      "x": 90,
+      "y": 180
+    },
+    "facing=up": {
+      "model": "stabilized:block/stabilizer_bearing/bearing_plate"
+    },
+    "facing=west": {
+      "model": "stabilized:block/stabilizer_bearing/bearing_plate",
+      "x": 90,
+      "y": 270
+    }
+  }
+}

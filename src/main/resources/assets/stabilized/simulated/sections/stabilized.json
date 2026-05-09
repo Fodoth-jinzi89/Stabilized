@@ -1,0 +1,11 @@
+{
+  "priority": 3666,
+  "title": {
+    "text": { "translate": "stabilized.simulated_section.stabilized" },
+    "background": "#3e3e3e",
+    "color": "#ffe5dcd0",
+    "secondary_color": "#ffc0b9ae"
+  },
+  "sprite": "stabilized:banner",
+  "only_animate_on_hover": true
+}

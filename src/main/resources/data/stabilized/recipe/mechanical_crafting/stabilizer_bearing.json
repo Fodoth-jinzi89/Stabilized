@@ -1,0 +1,29 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "key": {
+    "S": {
+      "tag": "minecraft:wooden_slabs"
+    },
+    "B": {
+      "item": "create:brass_casing"
+    },
+    "C": {
+      "item": "create:cogwheel"
+    },
+    "G": {
+      "item": "simulated:gyroscopic_mechanism"
+    }
+  },
+  "pattern": [
+    "S",
+    "B",
+    "C",
+    "G"
+  ],
+  "result": {
+    "count": 1,
+    "id": "stabilized:stabilizer_bearing"
+  }
+}
